@@ -315,6 +315,9 @@ header .logo i:hover {
        .video .box .text p {
     font-size: 16px;
   }
+      .video > h2 {
+          font-size: 30px
+      }
   }
   
   .video .box .text {

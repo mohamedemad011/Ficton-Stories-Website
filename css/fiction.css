@@ -329,6 +329,10 @@ header .logo i:hover {
   .video {
     height: 1600px
   }
+    
+    .video .box .text p {
+    font-size: 15px;
+  }
 }
 
 .video .box .text {

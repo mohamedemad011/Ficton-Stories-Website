@@ -315,9 +315,11 @@ header .logo i:hover {
        .video .box .text p {
     font-size: 16px;
   }
-      .video > h2 {
-          font-size: 30px
+         .video > h2 {
+         font-size: 30px;
       }
+    
+      
   }
   
   .video .box .text {
@@ -335,7 +337,7 @@ header .logo i:hover {
     .video .box {
       flex-basis: 100%;
     } 
-    
+   
   }
   
   .video .box img {

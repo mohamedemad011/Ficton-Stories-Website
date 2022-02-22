@@ -369,6 +369,11 @@ header .logo i:hover {
     
   }
 
+  @media (max-width: 768px){
+    .video > h2 {
+      font-size: 30px;
+    }
+  }
 
   .caption {
     position: absolute;

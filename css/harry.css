@@ -369,7 +369,7 @@ header .logo i:hover {
     
   }
 
-  @media (max-width: 768px){
+  @media (max-width: 500px){
     .video > h2 {
       font-size: 30px;
     }
